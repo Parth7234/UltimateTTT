@@ -1,0 +1,9 @@
+start in the center square of the center subgame (undoubtedly the best move, unless you want to surprise the opponent with something weird)
+
+the 'O' response is to push to the corner subgame, so then let the next 8 moves be played in the corner subgames
+
+when the 'O' breaks out of the corner subgames, jump between the side subgames (these are the least useful to take, but still, one has to be careful not to mess up here)
+
+maintain the overall balance on the board and wait for the opponent's mistake (the game is a marathon, not a sprint)
+
+think twice before sending your opponent to the finished subgame (being able to choose any move from the unfinished subgames is very powerful)
