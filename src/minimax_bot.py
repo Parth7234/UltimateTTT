@@ -1,5 +1,3 @@
-#Tried many patterns but the most simplest one remained the best :)
-
 import random
 import time
 

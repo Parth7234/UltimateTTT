@@ -1,14 +1,10 @@
 # This file is to run a game  bot v/s bot 
 
-
 import importlib
 try:
-    # Try importing as if running from the root (Streamlit App)
     from src.ultimate_ttt_engine import UltimateTTT
 except ImportError:
-    # If that fails, import as if running from inside src/ (Terminal Game)
     from ultimate_ttt_engine import UltimateTTT
-# ------------------------------
 
 bot1 = importlib.import_module("minimax_bot") #change with your bot's file name
 bot2 = importlib.import_module("random_bot")

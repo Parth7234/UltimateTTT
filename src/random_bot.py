@@ -1,12 +1,9 @@
 #this is bot returns random moves
 
 try:
-    # Try importing as if running from the root (Streamlit App)
     from src.ultimate_ttt_engine import UltimateTTT
 except ImportError:
-    # If that fails, import as if running from inside src/ (Terminal Game)
     from ultimate_ttt_engine import UltimateTTT
-# ------------------------------
 import random
 
 def play(game_board, prev_move, player):
