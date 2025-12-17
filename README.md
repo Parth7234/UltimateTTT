@@ -55,8 +55,8 @@ The project follows a modular software engineering pattern:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/ultimate-ttt-ai.git](https://github.com/your-username/ultimate-ttt-ai.git)
-cd ultimate-ttt-ai
+git clone https://github.com/Parth7234/UltimateTTT.git
+cd UltimateTTT
 ```
 
 ### 2. Install Dependencies
