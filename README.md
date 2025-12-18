@@ -4,6 +4,8 @@
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
 ![Algorithm](https://img.shields.io/badge/Algorithm-Minimax%20%2B%20Alpha--Beta-green)
 
+[**👉 Try the Live Dashboard here**](https://ultimatettt-parth-singla-iitp.streamlit.app/)
+
 A high-performance, strategic game agent for **Ultimate Tic-Tac-Toe**, engineered to handle high branching factors using adversarial search algorithms. This project features a modular game engine, multiple difficulty tiers, and an interactive web dashboard.
 
 ---
